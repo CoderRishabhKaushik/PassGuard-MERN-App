@@ -15,27 +15,31 @@ Make sure you have the following installed:
 - MongoDB (Make sure MongoDB is running locally)
 
 ### Installation
+
 1. Install backend dependencies:
 
     ```bash
     npm install
     ```
 
-5. Install frontend dependencies:
+2. Install frontend dependencies:
 
     ```bash
     npm install
     ```
 
 ### Running the Application
-#### Frontend and Backend
 
-To run the Frontend, execute:
+To run both the frontend and backend servers concurrently:
 
-```bash
-npm run dev
+1. To run the frontend development server, execute:
 
-To run the backend server, execute:
+    ```bash
+    npm run dev
+    ```
 
-```bash
-node --watch server.js
+2. To run the backend server, execute:
+
+    ```bash
+    node --watch server.js
+    ```
