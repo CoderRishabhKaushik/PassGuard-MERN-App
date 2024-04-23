@@ -28,15 +28,12 @@ Make sure you have the following installed:
     ```
 
 ### Running the Application
-#### Frontend
+#### Frontend and Backend
 
 To run the Frontend, execute:
 
 ```bash
 npm run dev
-
-
-#### Backend
 
 To run the backend server, execute:
 
