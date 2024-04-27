@@ -51,5 +51,5 @@ To run both the frontend and backend servers concurrently:
 2. To run the backend server, execute:
 
     ```bash
-    npm start
+    npm run start
     ```
