@@ -7,7 +7,6 @@ Passguard is a simple password manager application.
 - Securely store passwords.
 - Add, edit, and delete passwords.
 - Passwords are encrypted before being stored.
-- 
 # MERN Application
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack application.
